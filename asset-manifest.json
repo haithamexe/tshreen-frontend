@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.b6f7a8c1.css",
+    "main.js": "/react-gh-pages/static/js/main.84f4faee.js",
+    "static/js/872.f835e837.chunk.js": "/react-gh-pages/static/js/872.f835e837.chunk.js",
+    "static/js/227.64c25e3b.chunk.js": "/react-gh-pages/static/js/227.64c25e3b.chunk.js",
+    "static/js/526.cf7e552b.chunk.js": "/react-gh-pages/static/js/526.cf7e552b.chunk.js",
+    "static/js/232.3dba6349.chunk.js": "/react-gh-pages/static/js/232.3dba6349.chunk.js",
+    "static/js/237.8cccc763.chunk.js": "/react-gh-pages/static/js/237.8cccc763.chunk.js",
+    "static/media/qaos.png": "/react-gh-pages/static/media/qaos.fc98c721bd2a5d16795d.png",
+    "static/media/BoutrosNewsH1-Bold.ttf": "/react-gh-pages/static/media/BoutrosNewsH1-Bold.8ca3e5ea5a38a1f4bc17.ttf",
+    "index.html": "/react-gh-pages/index.html",
+    "main.b6f7a8c1.css.map": "/react-gh-pages/static/css/main.b6f7a8c1.css.map",
+    "main.84f4faee.js.map": "/react-gh-pages/static/js/main.84f4faee.js.map",
+    "872.f835e837.chunk.js.map": "/react-gh-pages/static/js/872.f835e837.chunk.js.map",
+    "227.64c25e3b.chunk.js.map": "/react-gh-pages/static/js/227.64c25e3b.chunk.js.map",
+    "526.cf7e552b.chunk.js.map": "/react-gh-pages/static/js/526.cf7e552b.chunk.js.map",
+    "232.3dba6349.chunk.js.map": "/react-gh-pages/static/js/232.3dba6349.chunk.js.map",
+    "237.8cccc763.chunk.js.map": "/react-gh-pages/static/js/237.8cccc763.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6f7a8c1.css",
+    "static/js/main.84f4faee.js"
+  ]
+}
